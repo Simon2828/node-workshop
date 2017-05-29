@@ -2,7 +2,7 @@
   "name": "node-intro-workshop",
   "version": "1.0.0",
   "description": "NodeJS workshop for DecodeMTL Web Development Bootcamp",
-  "main": "index.js",
+  "main": "workshop.js",
   "scripts": {
     "test": "mocha --require ./test/__pre.js"
   },
